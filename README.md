@@ -18,4 +18,4 @@ npm install
 npm run serve
 ```
 
-🗺 &nbsp; Enjoy the ride!
+🚲  When in doubt, pedal it out!
